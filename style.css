@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Uma\ mesa\ marrom\ de\ vista\ superior\ de\ madeira\,\ juntamente\ com\ massas\ cruas\ amarelas\ formadas\ diferentes\ isoladas\ no\ escuro\ _\ Foto\ Grátis.png);
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+
